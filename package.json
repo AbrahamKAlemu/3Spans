@@ -26,5 +26,9 @@
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3"
-  }
+  },
+  "description": "A 3-Dimensional Modeling Tool that allows for User's to view and sketch linear transformations",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }

@@ -1,6 +1,7 @@
-export type Feature = {
+// @/types/feature.ts
+export interface Feature {
   id: number;
-  icon: JSX.Element;
+  icon: React.ReactNode;
   title: string;
   paragraph: string;
-};
+}
